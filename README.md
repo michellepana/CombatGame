@@ -2,12 +2,12 @@
 A one-user-two-player combat game made with C++
 
 
-How to compile
+# How to compile
 
 There is a “makefile” included. 
 To compile, navigate into this folder in the console, and type “make”.
 
-Game Flow
+# Game Flow
 
 This game is a one-user-two-player game. User will be able to select different types of fighters for 2 teams. After this, the game will go on by itself.
 
@@ -22,6 +22,6 @@ Once all fighters for the 2 teams are selected, the ones queued at the front of 
 
 At the end of a game, user may choose to play again, or exit the program.
 
-Design
+# Design
 
 The CharQueue Class will be a queue implemented with doubly linked lists. It will be composed of CharNodes. In each CharNode, there will be a pointer to the Character class, which serves as the base abstract class for the Barbarian, the BlueMen, the HarryPotter, the Medusa and the Vampire classes.
