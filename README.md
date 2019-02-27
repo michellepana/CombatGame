@@ -14,7 +14,7 @@ This game is a one-user-two-player game. User will be able to select different t
 There are five different types of fighters, each with their own special ability:
 1.	Vampire – may charm the opponent into NOT attacking
 2.	Barbarian – no special ability
-3.	Blue Men – very strong. But defense ability will decrease as HP drps
+3.	Blue Men – very strong. But defense ability will decrease as HP drops
 4.	Medusa – may kill the opponent instantly
 5.	Harry Potter – may come back to life with doubled strength
 
